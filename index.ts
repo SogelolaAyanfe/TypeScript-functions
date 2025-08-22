@@ -1,0 +1,6 @@
+function test(input: number): string {
+  return input % 2 === 0 ? "even" : "odd";
+}
+
+console.log(test(7));
+
