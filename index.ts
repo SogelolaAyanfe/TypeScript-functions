@@ -1,6 +1,5 @@
-function test(input: number): string {
+function testEvenOrOdd(input: number): string {
   return input % 2 === 0 ? "even" : "odd";
 }
 
-console.log(test(7));
-
+console.log(testEvenOrOdd(7));
