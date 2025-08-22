@@ -3,13 +3,13 @@ To test TypeScript projects, you need to use the TypeScript compiler (often deno
 The steps to take are listed below:
 1. Go to the directory in your terminal
 
-2. In the terminal, Run the code: 
+2. In the terminal, Run the command: 
 `tsc index.ts`
 
-This code creates an index.js file
+This command compiles the TypeScript file and generates an index.js file
 
 
-3. While still in the terminal, you want to run the code:
+3. While still in the terminal, you want to run the command:
  `node index.js`
 
 The output of your TypeScript file should display in the terminal if everything was done correctly
