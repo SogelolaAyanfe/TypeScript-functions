@@ -1,7 +1,7 @@
 To test TypeScript projects, you need to use the TypeScript compiler (often denoded by tsc). 
 
 The steps to take are listed below:
-1. Go to the directory in yur terminal
+1. Go to the directory in your terminal
 
 2. In the terminal, Run the code: 
 `tsc index.ts`
