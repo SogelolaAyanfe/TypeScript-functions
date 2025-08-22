@@ -3,4 +3,3 @@ function testEvenOrOdd(input: number): string {
 }
 
 console.log(testEvenOrOdd(18));
-

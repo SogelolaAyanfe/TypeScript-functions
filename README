@@ -1,13 +1,15 @@
-<!-- To test TypeScript projects, you need to use the TypeScript compiler (often denoded by tsc). 
-This compiler is a command tool to transform a TypeScript code to a JavaScript that makes it readable for web browsers and Node.js enviroments.
+To test TypeScript projects, you need to use the TypeScript compiler (often denoded by tsc). 
+
 The steps to take are listed below:
-1. Go to the terminal and ensure the directory is the right directory of the TypeScript project
+1. Go to the directory in yur terminal
 
 2. In the terminal, Run the code: 
-tsc <typeScript-file-name.ts>
+`tsc index.ts`
 
-NB: This <typeScript-file-name.ts> is just a placeholder to contain the actual name of the file you want to compile.
+This code creates an index.js file
+
+
 3. While still in the terminal, you want to run the code:
- node <typeScript-file-name.ts>
+ `node index.js`
 
-The output of your TypeScript file should display in the terminal if everything was done -->
+The output of your TypeScript file should display in the terminal if everything was done correctly
